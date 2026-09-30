@@ -1,3 +1,4 @@
 openai_api_key
 python_program/openai_api_key
 .env
+python_program/python-venv-practice/.venv
